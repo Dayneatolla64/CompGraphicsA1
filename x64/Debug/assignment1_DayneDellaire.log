@@ -1,0 +1,16 @@
+﻿  Camera.cpp
+  EBO.cpp
+  Mesh.cpp
+C:\Users\rdell\Desktop\Progress\assignment1_DayneDellaire\Mesh.cpp(37,65): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Shaders.cpp
+  VAO.cpp
+C:\Users\rdell\Desktop\Progress\assignment1_DayneDellaire\VAO.cpp(9,63): warning C4244: 'argument': conversion from 'GLsizeiptr' to 'GLsizei', possible loss of data
+  VBO.cpp
+  main.cpp
+C:\Users\rdell\Desktop\Progress\assignment1_DayneDellaire\main.cpp(155,64): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rdell\Desktop\Progress\assignment1_DayneDellaire\main.cpp(156,67): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rdell\Desktop\Progress\assignment1_DayneDellaire\main.cpp(157,67): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rdell\Desktop\Progress\assignment1_DayneDellaire\main.cpp(158,66): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Generating Code...
+  LINK : C:\Users\rdell\Desktop\Progress\assignment1_DayneDellaire\x64\Debug\assignment1_DayneDellaire.exe not found or not built by the last incremental link; performing full link
+  assignment1_DayneDellaire.vcxproj -> C:\Users\rdell\Desktop\Progress\assignment1_DayneDellaire\x64\Debug\assignment1_DayneDellaire.exe
